@@ -1,8 +1,8 @@
 ## Hi there, I'm Jonathan 👋
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jo-adithya&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues" alt="Jonathan's GitHub stats" height="200px" style="margin: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=tokyonight&langs_count=8&layout=compact" alt="Top Languages" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jo-adithya&show_icons=true&theme=tokyonight&rank_icon=github&hide=issues" alt="Jonathan's GitHub stats" height="150px" style="margin: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&theme=tokyonight&langs_count=8&layout=compact" alt="Top Languages" height="150px" />
 </div>
 
 
